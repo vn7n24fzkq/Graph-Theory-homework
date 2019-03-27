@@ -1,0 +1,7 @@
+[package]
+name = "graph_theory_homework"
+version = "0.1.0"
+authors = ["vn7n24fzkq <vn7n24fzkq@gmail.com>"]
+edition = "2018"
+
+[dependencies]
